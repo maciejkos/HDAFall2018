@@ -4,10 +4,11 @@
 
 ### Accessing Stata
 
-1. Download Workspot from here: https://www.workspot.com/download 
+1. Download and setup Workspot using instructions here: https://www.workspot.com/download
+2. Grab a treat from me, put a mark next to your name on my sheet, relax while waiting for others to finish.
+3. Open AppCloud desktop.
+4. Open Stata15: Go to Start > XXX > XXXX > Stata15
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
