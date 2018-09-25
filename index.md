@@ -5,9 +5,9 @@
 
 1. Download and setup Workspot using instructions here: 
 [https://www.workspot.com/download](https://www.workspot.com/download):
-⋅⋅* "company email" = your husky email, e.g., kos.m@husky.neu.edu 
-⋅⋅* your password = your husky password
-⋅⋅* your domain = "nunet\" and your husky username, but don't add "husky.neu.edu", e.g, "nunet\kos.m"
+  * "company email" = your husky email, e.g., "kos.m@husky.neu.edu" 
+  * your password = your husky password
+  * your domain = "nunet\" and your husky username, but don't add "husky.neu.edu", e.g, "nunet\kos.m"
 2. Finished? Grab a treat from me, put a mark next to your name on my sheet to help me keep track, relax while waiting for others to finish.
 3. Open AppCloud, Start Windows 10.
 4. Open Stata15: Go to Start > Statistical and Computational > Stata15
