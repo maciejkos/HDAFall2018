@@ -5,7 +5,7 @@
 
 1. Download and setup Workspot using instructions here: 
 [https://www.workspot.com/download](https://www.workspot.com/download):
-  * "company email" = your husky email, e.g., "*kos.m@husky.neu.edu*" 
+  * "company email" = your husky email, e.g., "kos.m@husky.neu.edu" 
   * your password = your husky password
   * your domain = "nunet\" and your husky username, but don't add "husky.neu.edu", e.g, "nunet\kos.m"
   * Any problems? Let me know and I will help!
