@@ -12,7 +12,9 @@
 2. Finished? Grab a treat from me, put a mark next to your name on my sheet to help me keep track, relax while waiting for others to finish.
 
 More content will appear here soon.
+
 <!---
+
 3. Open AppCloud, Start Windows 10.
 4. Open Stata**15**: 
 
