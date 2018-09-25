@@ -22,14 +22,14 @@
 [https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv](https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv)  
 
 More content will appear here soon.
-<!---
+
 
 ### Stata resources:
 * Plotting: ["Visual Guide to Stata Graphics"](https://www.google.com/search?q=visual+guide+to+stata+graphics&oq=visual+guide+to+stata+graphics)
 * Excellent Stata tutorials @ UCLA IDRE: [https://stats.idre.ucla.edu/stata/](https://stats.idre.ucla.edu/stata/)
 
 
-
+<!---
 
 * Choosing the correct statistical test: [https://stats.idre.ucla.edu/other/mult-pkg/whatstat/](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 
