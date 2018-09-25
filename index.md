@@ -23,6 +23,7 @@
 
 More content will appear here soon.
 <!---
+
 ### Stata resources:
 * Plotting: ["Visual Guide to Stata Graphics"](https://www.google.com/search?q=visual+guide+to+stata+graphics&oq=visual+guide+to+stata+graphics)
 * Excellent Stata tutorials @ UCLA IDRE: [https://stats.idre.ucla.edu/stata/](https://stats.idre.ucla.edu/stata/)
