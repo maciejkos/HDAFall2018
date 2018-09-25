@@ -10,6 +10,7 @@
   * your domain = "nunet\" and your husky username, but don't add "husky.neu.edu", e.g, "nunet\kos.m"
   * Any problems? Let me know and I will help!
 2. Finished? Grab a treat from me, put a mark next to your name on my sheet to help me keep track, relax while waiting for others to finish.
+<!---
 3. Open AppCloud, Start Windows 10.
 4. Open Stata**15**: 
 
@@ -26,7 +27,7 @@
 
 
 
-<!---
+
 * Choosing the correct statistical test: [https://stats.idre.ucla.edu/other/mult-pkg/whatstat/](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 
 --->
