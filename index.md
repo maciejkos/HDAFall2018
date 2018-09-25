@@ -7,7 +7,7 @@
 [https://www.workspot.com/download](https://www.workspot.com/download):
   * "company email" = your husky email, e.g., "kos.m@husky.neu.edu" 
   * your password = your husky password
-  * your domain = "nunet\" and your husky username, but don't add "husky.neu.edu", e.g, "nunet\kos.m"
+  * your domain = "nunet\ " and your husky username, but don't add "husky.neu.edu", e.g, "nunet\kos.m"
   * Any problems? Let me know and I will help!
 2. Finished? Grab a treat from me, put a mark next to your name on my sheet to help me keep track, relax while waiting for others to finish.
 
