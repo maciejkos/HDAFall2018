@@ -4,15 +4,17 @@
 ### Accessing Stata
 
 1. Download and setup Workspot using instructions here: 
-[https://www.workspot.com/download](https://www.workspot.com/download)
+[https://www.workspot.com/download](https://www.workspot.com/download):
+⋅⋅* "company email" = your husky email, e.g., kos.m@husky.neu.edu 
+⋅⋅* your password = your husky password
+⋅⋅* your domain = "nunet\" and your husky username, but don't add "husky.neu.edu", e.g, "nunet\kos.m"
 2. Finished? Grab a treat from me, put a mark next to your name on my sheet to help me keep track, relax while waiting for others to finish.
 3. Open AppCloud, Start Windows 10.
 4. Open Stata15: Go to Start > Statistical and Computational > Stata15
-5. Open web browser, go to our website: 
+5. Open web browser (Edge), go to our website: 
 [http://tiny.cc/HDA2018](http://tiny.cc/HDA2018).
-6. Right-click on the link, choose "Save link as", and save the file to Desktop:
+6. Right-click on the below link, choose "Save target as", and save the file to Desktop:
 [https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv](https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv)  
-
 
 
 <!---
