@@ -11,9 +11,6 @@
   * Any problems? Let me know and I will help!
 2. Finished? Grab a treat from me, put a mark next to your name on my sheet to help me keep track, relax while waiting for others to finish.
 
-More content will appear here soon.
-
-
 
 3. Open AppCloud, Start Windows 10.
 4. Open Stata**15**: 
@@ -24,6 +21,7 @@ More content will appear here soon.
 6. Right-click on the below link, choose "Save target as", and save the file to Desktop:
 [https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv](https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv)  
 
+More content will appear here soon.
 <!---
 ### Stata resources:
 * Plotting: ["Visual Guide to Stata Graphics"](https://www.google.com/search?q=visual+guide+to+stata+graphics&oq=visual+guide+to+stata+graphics)
