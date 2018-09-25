@@ -11,7 +11,7 @@
 5. Open web browser, go to our website: 
 [http://tiny.cc/HDA2018](http://tiny.cc/HDA2018).
 6. Right-click on the link, choose "Save link as", and save the file to Desktop:
-[https://github.com/maciejkos/HDAFall2018/blob/master/data/diabetes_ed_for_class.csv](https://github.com/maciejkos/HDAFall2018/blob/master/data/diabetes_ed_for_class.csv)  
+[https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv](https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv)  
 
 
 
