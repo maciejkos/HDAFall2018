@@ -13,7 +13,8 @@ Make sure R is installed before going forward.
 (Are you sure R is installed?)
 
 1. Download installer from here: https://www.rstudio.com/products/rstudio/download/#download
-2. Install RStudio using the installer.
+2. Install RStudio using the installer
+3. Open RStudio
 
 ### Get the dataset
 Right-click on the below link, choose "Save file as" (or something similar), and save the file to Desktop:
