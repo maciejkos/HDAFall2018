@@ -2,35 +2,35 @@
 
 ### Install R
 For Windows: 
-(http://cran.cnr.berkeley.edu/bin/windows/base/) [http://cran.cnr.berkeley.edu/bin/windows/base/]
+[http://cran.cnr.berkeley.edu/bin/windows/base/](http://cran.cnr.berkeley.edu/bin/windows/base/) 
 
 For OS X: 
-(https://cran.r-project.org/bin/macosx/) [https://cran.r-project.org/bin/macosx/] (download and install this file: R-3.5.1.pkg)
+[https://cran.r-project.org/bin/macosx/](https://cran.r-project.org/bin/macosx/)  (download and install this file: R-3.5.1.pkg)
 
 Make sure R is installed before going forward.
 
 ### Install RStudio Desktop (Free)
 (Are you sure R is installed?)
 
-1. Download installer from here: (https://www.rstudio.com/products/rstudio/download/#download) [https://www.rstudio.com/products/rstudio/download/#download]
+1. Download installer from here: [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download) 
 2. Install RStudio using the installer
 3. Open RStudio
 
 ### Get the dataset
 Right-click on the below link, choose "Save file as" (or something similar), and save the file to Desktop:
-(https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv) [https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv]
+(https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv)[https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv] 
 
 Let me know once you are done! :)
 
 ### Getting help with R
 
-(http://r4ds.had.co.nz/index.html) [http://r4ds.had.co.nz/index.html]  - excellent book! check out the EDA chapter
+[http://r4ds.had.co.nz/index.html](http://r4ds.had.co.nz/index.html)   - excellent book! check out the EDA chapter
 
-(http://www.cookbook-r.com) [http://www.cookbook-r.com] - good cookbook
+[http://www.cookbook-r.com](http://www.cookbook-r.com)  - good cookbook
 
-(http://tidyverse.org) [http://tidyverse.org]
+[http://tidyverse.org](http://tidyverse.org) [http://tidyverse.org]
 
-(https://cran.r-project.org/) [https://cran.r-project.org/]
+[https://cran.r-project.org/](https://cran.r-project.org/)
 
 
 <!---
