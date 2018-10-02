@@ -21,6 +21,11 @@ https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed
 
 Let me know once you are done! :)
 
+### Getting help with R
+http://r4ds.had.co.nz/index.html 
+http://www.cookbook-r.com 
+http://tidyverse.org
+https://cran.r-project.org/
 
 
 <!---
