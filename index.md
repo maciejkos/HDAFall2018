@@ -18,9 +18,12 @@ Make sure R is installed before going forward.
 
 ### Get the dataset
 Right-click on the below link, choose "Save file as" (or something similar), and save the file to Desktop:
-(https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv)[https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv] 
+[https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv](https://raw.githubusercontent.com/maciejkos/HDAFall2018/master//data/diabetes_ed_for_class.csv)
 
-Let me know once you are done! :)
+Finished? 
+1. Grab a snack from me;
+2. Put a mark next to your name on my sheet to help me keep track; 
+3. Relax while waiting for others to finish.
 
 ### Getting help with R
 
