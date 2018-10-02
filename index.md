@@ -1,8 +1,11 @@
 ## Introduction to R
 
 ### Install R
-For Windows: http://cran.cnr.berkeley.edu/bin/windows/base/
-For OS X: https://cran.r-project.org/bin/macosx/ (download and install this file: R-3.5.1.pkg)
+For Windows: 
+http://cran.cnr.berkeley.edu/bin/windows/base/
+
+For OS X: 
+https://cran.r-project.org/bin/macosx/ (download and install this file: R-3.5.1.pkg)
 
 Make sure R is installed before going forward.
 
@@ -20,8 +23,7 @@ Let me know once you are done! :)
 
 
 
-
-
+<!---
 
 ## Introduction to Stata
 
@@ -54,7 +56,7 @@ More content will appear here soon.
 * Excellent Stata tutorials @ UCLA IDRE: [https://stats.idre.ucla.edu/stata/](https://stats.idre.ucla.edu/stata/)
 
 
-<!---
+
 
 * Choosing the correct statistical test: [https://stats.idre.ucla.edu/other/mult-pkg/whatstat/](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 
