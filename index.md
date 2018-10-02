@@ -23,7 +23,7 @@ Right-click on the below link, choose "Save file as" (or something similar), and
 Finished? 
 1. Grab a snack from me;
 2. Put a mark next to your name on my sheet to help me keep track; 
-3. Relax while waiting for others to finish.
+3. Relax while you wait for others to finish.
 
 ### Getting help with R
 
