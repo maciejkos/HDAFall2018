@@ -31,9 +31,9 @@ Finished?
 
 [http://www.cookbook-r.com](http://www.cookbook-r.com)  - good cookbook
 
-[http://tidyverse.org](http://tidyverse.org) [http://tidyverse.org]
+[http://tidyverse.org](http://tidyverse.org) - tidyverse documentation with examples
 
-[https://cran.r-project.org/](https://cran.r-project.org/)
+[https://cran.r-project.org/](https://cran.r-project.org/) - documentation for packages, etc.
 
 
 <!---
